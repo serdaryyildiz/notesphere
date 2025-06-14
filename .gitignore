@@ -1,5 +1,6 @@
 # Build & IDE
 /target/
+*.jar
 /build/
 *.iml
 *.class
