@@ -1,0 +1,21 @@
+# IDE and VCS
+.idea/
+.git/
+.gitignore
+
+# Frontend source (already built into static)
+frontend/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Docker (not used in this deployment)
+Dockerfile
+
+# Node modules (if accidentally included)
+node_modules/
+
+# Logs and temp files
+*.log

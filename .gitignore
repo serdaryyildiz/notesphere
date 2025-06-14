@@ -1,0 +1,59 @@
+# Build & IDE
+/target/
+/build/
+*.iml
+*.class
+
+# OS & Logs
+.DS_Store
+*.log
+
+# Environment
+.env
+*.env
+application.properties
+application.yml
+
+# IntelliJ
+.idea/
+
+# Maven/Gradle
+.mvn/
+.gradle/
+!gradle-wrapper.jar
+
+# Node modules
+/node_modules/
+
+# Build
+/dist/
+/build/
+/.expo/
+/.expo-shared/
+*.log
+web-build/
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local
+
+# Metro cache
+/metro-cache/
+/tmp/
+
+# Expo
+.expo/
+*.apk
+*.keystore
+
+#ios
+NoteSphereMobile/ios/NoteSphereMobile/Info.plist
+
+ApplicationReport_200709051_Serdar_YILDIZ.pdf
+CRUD FONKSİYONLARI.txt
+ENTİTY DEĞİŞİKLİKLERİ.txt
+SERVİSLER.txt
+yapılacaklar.txt

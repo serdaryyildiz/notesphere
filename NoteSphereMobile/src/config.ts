@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://notesphere-backend-env.eba-imphxipc.eu-north-1.elasticbeanstalk.com';
